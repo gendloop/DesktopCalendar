@@ -1,9 +1,9 @@
-# RepoName
+# DesktopCalendar
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/DesktopCalendar
 ```
 
 ## Notes
