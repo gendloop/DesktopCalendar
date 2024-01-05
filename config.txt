@@ -1,0 +1,5 @@
+
+PROJECT_NAME=DesktopCalendar
+DesktopCalendar_VERSION_MAJOR=3
+DesktopCalendar_VERSION_MINOR=10
+DesktopCalendar_VERSION_PATCH=168
